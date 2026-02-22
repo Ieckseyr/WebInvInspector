@@ -1,4 +1,4 @@
-# WebInvInspector v2.0.3
+# WebInvInspector v2.0.4
 
 Minecraft BDS 背包查看与管理工具，支持实时查看、历史回溯、物品流动分析、背包备份与还原。
 
